@@ -1,37 +1,42 @@
-## Welcome to GitHub Pages
+## What is The Bearded Man Ltd?
 
-You can use the [editor on GitHub](https://github.com/emtunc/emtunc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Bearded Man Ltd is a Cyber Security Consultancy based in London. We provide data driven security powered by next generation machine learning algorithms, peppered with some artificial intelligence. Just joking. We do proper security. I'm a firm believer of shift-left security - getting security processes embedded as early as possible into the development lifecycle (ideally before a single line of code has been written). It's cheaper, more efficient and makes for more secure systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## _Why_ The Bearded Man Ltd?
 
-### Markdown
+I've got a beard. I'm a man (my wife would argue otherwise but Bearded Boy just sounds weird). I was feeling creative.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## _Who_ is The Bearded Man Ltd?
 
-```markdown
-Syntax highlighted code block
+Mainly me ([Mikail Tunç](https://uk.linkedin.com/in/emtunc)) with the assistance of some super smart people I know as and when required.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## What services do you provide?
 
-1. Numbered
-2. List
+These are just some of the services that we can provide:
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
+Web application penetration testing
+Mobile application penetration testing
+Infrastructure penetration testing
+Red Teaming
+Phishing exercises
+Security training
+Threat modelling
+Creating and embedding secure SDLC practices and processes
+Embedding security into the development cycle
+Security SME for the business
+Security automation
+Security documentation
+General security assessments, reviews and consultancy
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Who are your clients?
 
-### Jekyll Themes
+* [Photobox Group](https://group.photobox.com/)
+* [Mettle](https://mettle.co.uk/)
+* [ANNA](https://anna.money/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emtunc/emtunc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Interested?
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to reach me via [e-mail](mailto:mikail@emtunc.org) or on [LinkedIn](https://uk.linkedin.com/in/emtunc)
