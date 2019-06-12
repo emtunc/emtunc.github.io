@@ -1,4 +1,4 @@
-## What is The Bearded Man Ltd?
+## _What_ is The Bearded Man Ltd?
 
 The Bearded Man Ltd is a Cyber Security Consultancy based in London. We provide data driven security powered by next generation machine learning algorithms, peppered with some artificial intelligence. Just joking. We do proper security. I'm a firm believer of shift-left security - getting security processes embedded as early as possible into the development lifecycle (ideally before a single line of code has been written). It's cheaper, more efficient and makes for more secure systems.
 
