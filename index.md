@@ -4,9 +4,9 @@ Shift Left Security Ltd is a Cyber Security Consultancy based in London. We focu
 
 ## What does 'shifting security left' actually mean?
 
-Shifting security left simply means that security is thought about and built into the Software Development Lifecycle at a much earlier stage; ideally before a single line of code is written.
+Shifting security left simply means that security is thought about and built into the Software Development Lifecycle at a much earlier stage; ideally before a single line of code has been written.
 
-The goal is to mitigate the risk of security vulnerabilities making their way to the end of the development lifecycle where is it the most costly, inefficient and timeconsuming to make fixes.
+The goal is to mitigate the risk of security vulnerabilities making their way to the end of the development lifecycle where is it the most costly, inefficient and time-consuming to make fixes.
 
 ## What services do you provide?
 
