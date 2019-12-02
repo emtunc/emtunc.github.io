@@ -28,7 +28,7 @@ Security documentation
 General security assessments, reviews and consultancy
 ```
 
-## Who are your clients?
+## Clients
 
 * [Photobox Group](https://group.photobox.com/)
 * [Mettle](https://mettle.co.uk/)
@@ -37,4 +37,4 @@ General security assessments, reviews and consultancy
 
 ## Interested?
 
-Feel free to reach me via [e-mail](mailto:mikail@emtunc.org) or on [LinkedIn](https://uk.linkedin.com/in/emtunc)
+Feel free to reach me via [e-mail](mailto:mikail@shiftleftsecurity.co.uk) or on [LinkedIn](https://uk.linkedin.com/in/emtunc)
