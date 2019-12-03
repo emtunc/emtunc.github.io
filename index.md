@@ -37,4 +37,4 @@ General security assessments, reviews and consultancy
 
 ## Interested?
 
-Feel free to reach me via [e-mail](mailto:mikail@shiftleftsecurity.co.uk) or on [LinkedIn](https://uk.linkedin.com/in/emtunc)
+Feel free to reach out via [e-mail](mailto:mikail@shiftleftsecurity.co.uk)
