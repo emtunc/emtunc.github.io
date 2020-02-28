@@ -35,6 +35,7 @@ General security assessments, reviews and consultancy
 * [Terra Security](https://www.terrasecurity.com/)
 * [ANNA](https://anna.money/)
 * [ByRotation](https://byrotation.com/)
+* [HalalBooking](https://halalbooking.com/)
 
 ## Interested?
 
