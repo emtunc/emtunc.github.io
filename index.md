@@ -34,6 +34,7 @@ General security assessments, reviews and consultancy
 * [Mettle](https://mettle.co.uk/)
 * [Terra Security](https://www.terrasecurity.com/)
 * [ANNA](https://anna.money/)
+* [ByRotation](https://byrotation.com/)
 
 ## Interested?
 
