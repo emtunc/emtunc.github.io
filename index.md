@@ -15,8 +15,6 @@ These are just some of the services we provide to our clients:
 ```
 Web application penetration testing
 Mobile application penetration testing
-Infrastructure penetration testing
-Red Teaming
 Phishing exercises
 Security training and workshops
 Threat modelling
