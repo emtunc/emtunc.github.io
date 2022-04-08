@@ -32,4 +32,4 @@ Feel free to reach out via [e-mail](mailto:octocat@emtunc.org)
 
 ## About the team
 
-- Ertugrul-Mikail Tunç [Ertugrul Mikail Tunc](https://www.linkedin.com/in/emtunc/)
+- [Ertugrul Mikail Tunc](https://www.linkedin.com/in/emtunc/)
