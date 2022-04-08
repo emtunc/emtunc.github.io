@@ -1,6 +1,6 @@
-## What is Shift Left Security Ltd?
+## What is Octocat?
 
-Shift Left Security Ltd is a Cyber Security Consultancy based in London. We focus on helping organisations strengthen their security posture by shifting security further left in the _Software Development Lifecycle_
+Octocat is a Cyber Security Consultancy based in London. We primarily focus on helping Financial Services clients strengthen their security posture by shifting security further left in the _Software Development Lifecycle_
 
 ## What does 'shifting security left' actually mean?
 
@@ -26,17 +26,10 @@ Security documentation
 General security assessments, reviews and consultancy
 ```
 
-## Clients
-
-* [Photobox Group](https://group.photobox.com/)
-* [Mettle](https://mettle.co.uk/)
-* [Terra Security](https://www.terrasecurity.com/)
-* [ANNA](https://anna.money/)
-* [ByRotation](https://byrotation.com/)
-* [HalalBooking](https://halalbooking.com/)
-* [Nationwide for Business](https://nationwide.co.uk/)
-* [11:FS](https://11fs.com/)
-
 ## Interested?
 
-Feel free to reach out via [e-mail](mailto:mikail@shiftleftsecurity.co.uk)
+Feel free to reach out via [e-mail](mailto:octocat@emtunc.org)
+
+## About the team
+
+- Ertugrul-Mikail Tunç [Ertugrul Mikail Tunc](https://www.linkedin.com/in/emtunc/)
